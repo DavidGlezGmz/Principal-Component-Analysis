@@ -10,3 +10,5 @@ PCA is primarily used for exploratory data analysis and to build predictive mode
 
 ### Results
 
+![image](https://user-images.githubusercontent.com/86708470/169900465-94beb948-af79-491c-a9bf-9abeb8aac761.png)
+
